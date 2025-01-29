@@ -1,0 +1,3 @@
+Name = input("Enter your Name")
+Roll_number = input("Enter your Roll Number")
+print($"Your Name is {Name} and your Roll_number is {Roll_number}")
