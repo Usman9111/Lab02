@@ -4,3 +4,5 @@ print($"Your Name is {Name} and your Roll_number is {Roll_number}")
 
 
 print("FSC Subjects are: Urdu,English, Isl, PakStudy, Math, Physics, Chemistry")
+
+print("1st_semester subject: EHS, ISL, IT Skills, Computer Programming, calculus,
